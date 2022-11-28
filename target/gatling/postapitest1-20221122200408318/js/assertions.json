@@ -1,0 +1,10 @@
+{
+  "simulation": "api.PostApiTest1",
+  "simulationId": "postapitest1",
+  "start": 1669147448318,
+  "description": "Post Api Testing",
+  "scenarios": ["Post Api Request Demo"],
+  "assertions": [
+
+  ]
+}

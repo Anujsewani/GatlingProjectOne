@@ -1,0 +1,10 @@
+{
+  "simulation": "api.PostApiTest1",
+  "simulationId": "postapitest1",
+  "start": 1669272309286,
+  "description": "Delete",
+  "scenarios": ["Post Api Request Demo", "update user", "Delete user"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "Feeders.FeederDemo",
+  "simulationId": "feederdemo",
+  "start": 1669618219327,
+  "description": "take page name from csv",
+  "scenarios": ["Feeders Demo"],
+  "assertions": [
+
+  ]
+}
